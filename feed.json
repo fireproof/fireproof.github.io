@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "McClintock Business Machines",
     "description": "",
-    "home_page_url": "https://mc.clintock.org",
-    "feed_url": "https://mc.clintock.org/feed.json",
+    "home_page_url": "http://mc.clintock.org",
+    "feed_url": "http://mc.clintock.org/feed.json",
     "user_comment": "",
     "author": {
         "name": "Matthew McClintock"
     },
     "items": [
         {
-            "id": "https://mc.clintock.org/fountain-pens.html",
-            "url": "https://mc.clintock.org/fountain-pens.html",
+            "id": "http://mc.clintock.org/fountain-pens.html",
+            "url": "http://mc.clintock.org/fountain-pens.html",
             "title": "Fountain Pens",
             "summary": "A quick word regarding pens, their materials &amp; manufacture, and whether you need good penmanship to be happy.",
             "content_html": "<p>A quick word regarding pens, their materials &amp; manufacture, and whether you need good penmanship to be happy.</p>",
