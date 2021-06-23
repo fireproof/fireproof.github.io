@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "McClintock Business Machines",
+    "description": "",
+    "home_page_url": "https://mc.clintock.org",
+    "feed_url": "https://mc.clintock.org/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Matthew McClintock"
+    },
+    "items": [
+    ]
+}
