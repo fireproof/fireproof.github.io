@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>McClintock Business Machines</title>
+    <link href="https://mc.clintock.org/feed.xml" rel="self" />
+    <link href="https://mc.clintock.org" />
+    <updated>2021-06-23T06:41:59-07:00</updated>
+    <author>
+        <name>Matthew McClintock</name>
+    </author>
+    <id>https://mc.clintock.org</id>
+
+    <entry>
+        <title>Fountain Pens</title>
+        <author>
+            <name>Matthew McClintock</name>
+        </author>
+        <link href="https://mc.clintock.org/fountain-pens.html"/>
+        <id>https://mc.clintock.org/fountain-pens.html</id>
+
+        <updated>2021-06-23T06:41:59-07:00</updated>
+            <summary>
+                <![CDATA[
+                    A quick word regarding pens, their materials &amp; manufacture, and whether you need good penmanship to be happy.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A quick word regarding pens, their materials &amp; manufacture, and whether you need good penmanship to be happy.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
