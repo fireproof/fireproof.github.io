@@ -9,5 +9,19 @@
         "name": "Matthew McClintock"
     },
     "items": [
+        {
+            "id": "https://mc.clintock.org/fountain-pens.html",
+            "url": "https://mc.clintock.org/fountain-pens.html",
+            "title": "Fountain Pens",
+            "summary": "A quick word regarding pens, their materials &amp; manufacture, and whether you need good penmanship to be happy.",
+            "content_html": "<p>A quick word regarding pens, their materials &amp; manufacture, and whether you need good penmanship to be happy.</p>",
+            "author": {
+                "name": "Matthew McClintock"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-23T06:41:59-07:00",
+            "date_modified": "2021-06-23T06:41:59-07:00"
+        }
     ]
 }
