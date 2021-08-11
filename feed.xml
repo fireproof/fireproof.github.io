@@ -3,7 +3,7 @@
     <title>McClintock Business Machines</title>
     <link href="http://mc.clintock.org/feed.xml" rel="self" />
     <link href="http://mc.clintock.org" />
-    <updated>2021-06-23T06:41:59-07:00</updated>
+    <updated>2021-08-10T17:08:12-07:00</updated>
     <author>
         <name>Matthew McClintock</name>
     </author>
@@ -17,15 +17,26 @@
         <link href="http://mc.clintock.org/fountain-pens.html"/>
         <id>http://mc.clintock.org/fountain-pens.html</id>
 
-        <updated>2021-06-23T06:41:59-07:00</updated>
+        <updated>2021-08-10T17:08:12-07:00</updated>
             <summary>
                 <![CDATA[
-                    A quick word regarding pens, their materials &amp; manufacture, and whether you need good penmanship to be happy.
+                    A quick word regarding pens, their materials &amp; manufacture, and whether you need good penmanship to be happy. My first ebonite fountain pen An ebonite pen that can post its cap Started to get "fancy" with the posting dimensions 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>A quick word regarding pens, their materials &amp; manufacture, and whether you need good penmanship to be happy.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="http://mc.clintock.org/media/posts/1/gallery/IMG_0547.jpeg" data-size="2000x1267"><img loading="lazy" src="http://mc.clintock.org/media/posts/1/gallery/IMG_0547-thumbnail.jpeg" alt="First ebonite pen" width="720" height="456"></a>
+<figcaption>My first ebonite fountain pen</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://mc.clintock.org/media/posts/1/gallery/9-post-long-finial.jpeg" data-size="2924x1862"><img loading="lazy" src="http://mc.clintock.org/media/posts/1/gallery/9-post-long-finial-thumbnail.jpeg" alt="Postable ebonite pen" width="720" height="458"></a>
+<figcaption>An ebonite pen that can post its cap</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://mc.clintock.org/media/posts/1/gallery/11-semi-complex-finial-open-box.jpeg" data-size="2859x2397"><img loading="lazy" src="http://mc.clintock.org/media/posts/1/gallery/11-semi-complex-finial-open-box-thumbnail.jpeg" alt="Slightly more complex ebonite pen" width="720" height="604"></a>
+<figcaption>Started to get "fancy" with the posting dimensions</figcaption>
+</figure>
+</div></div>
             ]]>
         </content>
     </entry>
