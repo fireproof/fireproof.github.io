@@ -13,15 +13,15 @@
             "id": "http://mc.clintock.org/fountain-pens.html",
             "url": "http://mc.clintock.org/fountain-pens.html",
             "title": "Fountain Pens",
-            "summary": "A quick word regarding pens, their materials &amp; manufacture, and whether you need good penmanship to be happy.",
-            "content_html": "<p>A quick word regarding pens, their materials &amp; manufacture, and whether you need good penmanship to be happy.</p>",
+            "summary": "A quick word regarding pens, their materials &amp; manufacture, and whether you need good penmanship to be happy. My first ebonite fountain pen An ebonite pen that can post its cap Started to get \"fancy\" with the posting dimensions ",
+            "content_html": "<p>A quick word regarding pens, their materials &amp; manufacture, and whether you need good penmanship to be happy.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"http://mc.clintock.org/media/posts/1/gallery/IMG_0547.jpeg\" data-size=\"2000x1267\"><img loading=\"lazy\" src=\"http://mc.clintock.org/media/posts/1/gallery/IMG_0547-thumbnail.jpeg\" alt=\"First ebonite pen\" width=\"720\" height=\"456\"></a>\n<figcaption>My first ebonite fountain pen</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://mc.clintock.org/media/posts/1/gallery/9-post-long-finial.jpeg\" data-size=\"2924x1862\"><img loading=\"lazy\" src=\"http://mc.clintock.org/media/posts/1/gallery/9-post-long-finial-thumbnail.jpeg\" alt=\"Postable ebonite pen\" width=\"720\" height=\"458\"></a>\n<figcaption>An ebonite pen that can post its cap</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://mc.clintock.org/media/posts/1/gallery/11-semi-complex-finial-open-box.jpeg\" data-size=\"2859x2397\"><img loading=\"lazy\" src=\"http://mc.clintock.org/media/posts/1/gallery/11-semi-complex-finial-open-box-thumbnail.jpeg\" alt=\"Slightly more complex ebonite pen\" width=\"720\" height=\"604\"></a>\n<figcaption>Started to get \"fancy\" with the posting dimensions</figcaption>\n</figure>\n</div></div>",
             "author": {
                 "name": "Matthew McClintock"
             },
             "tags": [
             ],
             "date_published": "2021-06-23T06:41:59-07:00",
-            "date_modified": "2021-06-23T06:41:59-07:00"
+            "date_modified": "2021-08-10T17:08:12-07:00"
         }
     ]
 }
